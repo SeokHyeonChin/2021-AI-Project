@@ -1,4 +1,4 @@
-# 2021-AI-project
+# 2021-AI-Project
 
 ## Language and Libraries
 * Python
