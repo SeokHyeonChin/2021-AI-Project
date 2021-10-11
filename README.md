@@ -1,5 +1,12 @@
 # 2021-AI-project
 
+## Language and Libraries
+* Python
+* Scikit-learn
+* Pandas
+* Numpy
+* Seaborn
+
 ## Introduction - 실험 요약
 이번 실험에서는 Titanic 승선객 데이터셋을 활용한 생존여부 분류기 모델(Titanic Survivor Classifier)을 만들고자 한다. 데이터셋의 경우 Kaggle에서 제공되는 Titanic 승선객 레이블 데이터를 활용하여 Supervised Learning 실험을 진행할 것이다. 데이터셋의 경우 실험 자료로 제공되는 전처리된 데이터를 활용할 예정이기에 추가적인 전처리나 Feature Engineering 없이 실험을 진행할 예정이다.
 
